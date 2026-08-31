@@ -1,0 +1,48 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor / IDE files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Unused template materials (kept locally for reference, not tracked)
+academicpages.zip
+academicpages_tmp/
+
+# Draft / alternate page variants (kept locally, never published)
+index2.html
+index_v1.html
+
+# Dated resume sources (canonical file is main_xiaoran_resume.tex)
+main_xiaoran_resume_2026*.tex
+
+# Local-only files (kept on disk, never published — repo holds only page assets)
+CLAUDE.md
+README.md
+.editorconfig
+deploy.sh
+main_xiaoran_resume.tex
+main_xiaoran-*.tex
+archive/
+
+# Unused photos (only photo/photo2.JPG is referenced by index.html)
+photo/childhood_photo.JPG
+photo/childhood_photo2.png
+photo/photo1.png
